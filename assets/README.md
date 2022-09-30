@@ -1,5 +1,5 @@
 <!--HTTPS://DAVINCI-IT.GITHUB.IO-->
 <!--READme.md TEMPLATE-->
 
-![author's_logo]('assets\img\brand.png', "VDT")
+<img src="/assets/img/brand.png" alt="AUTHOR MONOGRAM" style="align=center"/>
 
